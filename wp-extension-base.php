@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Base d'extension WordPress
-Plugin URI: https://wwww.gregoirenoyelle.com
+Plugin URI: https://www.gregoirenoyelle.com
 Description: Extension basique pour modifier le front ou le back.
 Version: 2.0
 Author: Grégoire Noyelle
-Author URI: http://wwww.gregoirenoyelle.com
+Author URI: http://www.gregoirenoyelle.com
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Domain Path: /languages
